@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
       "id": 2,
       "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
       "author": "Collin Powell"
@@ -51,15 +46,33 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "Lonely",
+      "author": "Gal",
+      "id": 12
+    },
+    {
+      "quote": "Dont make it harder on me",
+      "author": "Chloe x Halle",
+      "id": 14
+    },
+    {
+      "quote": "Huh",
+      "author": "Uhu",
+      "id": 15
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": null,
+      "id": 1
+    },
+    {
+      "quoteId": 2,
+      "id": 2
+    },
+    {
+      "quoteId": 4,
+      "id": 3
     }
   ]
 }
